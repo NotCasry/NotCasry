@@ -1,3 +1,1 @@
-# Welcome to my github profile
-
-- Currently working on CC_HUB
+# Welcome to my github profile!
